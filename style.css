@@ -1,0 +1,13 @@
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+}
+.teste{ 
+    width: 600px;
+    height: 400px;
+   background-image: url("https://logospng.org/download/google/logo-google-512.png");
+    background-size: cover;
+    align-content: center;
+    filter: drop-shadow(10px 10px 7px gray);
+    box-shadow: 10px 10px 7px gray;
+
+}
